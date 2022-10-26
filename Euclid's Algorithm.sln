@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euclid's Algorithm", "Euclid's Algorithm\Euclid's Algorithm.csproj", "{40EF8A44-A879-4B13-8C22-E04EA646028A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40EF8A44-A879-4B13-8C22-E04EA646028A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EF8A44-A879-4B13-8C22-E04EA646028A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EF8A44-A879-4B13-8C22-E04EA646028A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EF8A44-A879-4B13-8C22-E04EA646028A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C31572-FC0F-442F-BEF9-16D4DFCA5C67}
+	EndGlobalSection
+EndGlobal
